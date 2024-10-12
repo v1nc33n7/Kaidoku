@@ -19,7 +19,7 @@ Make sure you have Rust and Cargo installed on your system.
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/kaidoku.git
+git clone https://github.com/v1nc33n7/kaidoku.git
 ```
 
 2. Navigate to the folder
